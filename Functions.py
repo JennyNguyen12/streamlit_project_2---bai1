@@ -139,7 +139,7 @@ result_id_3=recommender_id_model(input_id_3, dictionary, tfidf, index)
 input_text = "Tai nghe Bluetooth"
 result_text = recommender_text_model(input_text, dictionary, tfidf, index, stop_words)
 
-input_text_2 = "LOA LOGITECH"
+input_text_2 = "LOA"
 result_text_2 = recommender_text_model(input_text_2, dictionary, tfidf, index, stop_words)
 
 input_text_3 = "PIN SẠC"
