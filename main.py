@@ -147,11 +147,11 @@ if __name__ == "__main__":
         st.code(result_id_1)
         result_id_2 = f"The customer clicks on the product with ID 48102821, then suggests similar products: {result_id_2}"
         st.code(result_id_2)
-        result_id_3 = f"The customer clicks on the product with ID 48102821, then suggests similar products: {result_id_3}"
+        result_id_3 = f"The customer clicks on the product with ID 2860621, then suggests similar products: {result_id_3}"
         st.code(result_id_3)
         result_text_1 = f"When customers search for Bluetooth headphones, recommend products such as: {result_text}"
         st.code(result_text_1)
-        result_text_2 = f"When customers search for lOA LOGITECH, recommend products such as: {result_text_2}"
+        result_text_2 = f"When customers search for lOA , recommend products such as: {result_text_2}"
         st.code(result_text_2)
         result_text_3 = f"When customers search for PIN SAC, recommend products such as: {result_text_3}"
         st.code(result_text_3)
